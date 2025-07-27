@@ -19,13 +19,13 @@ ENDM
 UnownWalls:
 ; UNOWNWORDS_ESCAPE
 	; db $08, $44, $04, $00, $2e, $08, -1
-	unownwall "ESCAPE"
+	unownwall "SORTIE"
 ; UNOWNWORDS_LIGHT
 	; db $26, $20, $0c, $0e, $46, -1
-	unownwall "LIGHT"
+	unownwall "LUMIERE"
 ; UNOWNWORDS_WATER
 	; db $4c, $00, $46, $08, $42, -1
-	unownwall "WATER"
+	unownwall "-EAU-"
 ; UNOWNWORDS_HO_OH
 	; db $0e, $2c, $64, $2c, $0e, -1
 	unownwall "HO-OH"
