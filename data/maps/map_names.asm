@@ -556,33 +556,33 @@ Cherrygrove_Map_Names:
 
 ; MAX LENGTH: 17
 Olivine_Map_Name1: ; map_const OLIVINE_POKECENTER_1F ;  1
-	db "OLIVINE <PKMN> CENTER@"
+	db "CENT. <PKMN> OLIVILLE@"
 Olivine_Map_Name2: ; map_const OLIVINE_GYM ;  2
-	db "OLIVINE GYM@"
+	db "ARENE D'OLIVILLE@"
 Olivine_Map_Name3: ; map_const OLIVINE_TIMS_HOUSE ;  3
-	db "TIM'S HOUSE@"
+	db "MAISON DE TIM@"
 Olivine_Map_Name4: ; map_const OLIVINE_HOUSE_BETA ;  4
-	db "OLIVINE HOUSE@"
+	db "MAISON D'OLIVILLE@"
 Olivine_Map_Name5: ; map_const OLIVINE_PUNISHMENT_SPEECH_HOUSE ;  5
-	db "OLIVINE HOUSE 1@"
+	db "MAISON D'OLIVILLE 1@"
 Olivine_Map_Name6: ; map_const OLIVINE_GOOD_ROD_HOUSE ;  6
-	db "OLIVINE HOUSE 2@"
+	db "MAISON D'OLIVILLE 2@"
 Olivine_Map_Name7: ; map_const OLIVINE_CAFE ;  7
-	db "OLIVINE CAFE@"
+	db "CAFE D'OLIVILLE@"
 Olivine_Map_Name8: ; map_const OLIVINE_MART ;  8
-	db "OLIVINE <POKE>MART@"
+	db "<POKE>SHOP D'OLIVILLE@"
 Olivine_Map_Name9: ; map_const ROUTE_38_ECRUTEAK_GATE ;  9
-	db "ROUTE 38 GATE@"
+	db "PORTE ROUTE 38@"
 Olivine_Map_Name10: ; map_const ROUTE_39_BARN ; 10
-	db "ROUTE 39 BARN@"
+	db "GRANGE ROUTE 39@"
 Olivine_Map_Name11: ; map_const ROUTE_39_FARMHOUSE ; 11
-	db "ROUTE 39 HOUSE@"
+	db "MAISON ROUTE 39@"
 Olivine_Map_Name12: ; map_const ROUTE_38, ; 12
 	db "ROUTE 38@"
 Olivine_Map_Name13: ; map_const ROUTE_39, ; 13
 	db "ROUTE 39@"
 Olivine_Map_Name14: ; map_const OLIVINE_CITY ; 14
-	db "OLIVINE CITY@"
+	db "OLIVILLE@"
 
 Mahogany_Map_Name1: ; map_const MAHOGANY_RED_GYARADOS_SPEECH_HOUSE ;  1
 	db "MAHOGANY HOUSE@"
