@@ -599,47 +599,47 @@ Mahogany_Map_Name6: ; map_const ROUTE_44, ;  6
 Mahogany_Map_Name7: ; map_const MAHOGANY_TOWN,  ;  7
 	db "ACAJOU@"                                           ;  3
 Dungeons_Map_Name1: ; map_const SPROUT_TOWER_1F, ;  1
-	db "TOUR CHETIFLOR 1F@"
+	db "TOUR CHETIFLOR RDC@"
 Dungeons_Map_Name2: ; map_const SPROUT_TOWER_2F, ;  2
-	db "TOUR CHETIFLOR 2F@"
+	db "TOUR CHETIFLOR 1F@"
 Dungeons_Map_Name3: ; map_const SPROUT_TOWER_3F, ;  3
-	db "TOUR CHETIFLOR 3F@"
+	db "TOUR CHETIFLOR 2F@"
 Dungeons_Map_Name4: ; map_const TIN_TOWER_1F,  ;  4
-	db "TOUR FERRAILLE 1F@"
+	db "TOUR FERRAILLE RDC@"
 Dungeons_Map_Name5: ; map_const TIN_TOWER_2F,;  5
-	db "TOUR FERRAILLE 2F@"
+	db "TOUR FERRAILLE 1F@"
 Dungeons_Map_Name6: ; map_const TIN_TOWER_3F,;  6
-	db "TOUR FERRAILLE 3F@"
+	db "TOUR FERRAILLE 2F@"
 Dungeons_Map_Name7: ; map_const TIN_TOWER_4F,;  7
-	db "TOUR FERRAILLE 4F@"
+	db "TOUR FERRAILLE 3F@"
 Dungeons_Map_Name8: ; map_const TIN_TOWER_5F, ;  8
-	db "TOUR FERRAILLE 5F@"
+	db "TOUR FERRAILLE 4F@"
 Dungeons_Map_Name9: ; map_const TIN_TOWER_6F, ;  9
-	db "TOUR FERRAILLE 6F@"
+	db "TOUR FERRAILLE 5F@"
 Dungeons_Map_Name10: ; map_const TIN_TOWER_7F, ; 10
-	db "TOUR FERRAILLE 7F@"
+	db "TOUR FERRAILLE 6F@"
 Dungeons_Map_Name11: ; map_const TIN_TOWER_8F,; 11
-	db "TOUR FERRAILLE 8F@"
+	db "TOUR FERRAILLE 7F@"
 Dungeons_Map_Name12: ; map_const TIN_TOWER_9F,  ; 12
-	db "TOUR FERRAILLE 9F@"
+	db "TOUR FERRAILLE 8F@"
 Dungeons_Map_Name13: ; map_const BURNED_TOWER_1F, ; 13
-	db "TOUR CENDREE 1F@"
+	db "TOUR CENDREE RDC@"
 Dungeons_Map_Name14: ; map_const BURNED_TOWER_B1F, ; 14
-	db "TOUR CENDREE B1F@"
+	db "TOUR CENDREE -1F@"
 Dungeons_Map_Name15: ; map_const NATIONAL_PARK, ; 15
 	db "PARC NATUREL@"
 Dungeons_Map_Name16: ; map_const NATIONAL_PARK_BUG_CONTEST,; 16
 	db "CONCOURS D'INSECTES@"
 Dungeons_Map_Name17: ; map_const RADIO_TOWER_1F ; 17
-	db "TOUR RADIO 1F@"
+	db "TOUR RADIO RDC@"
 Dungeons_Map_Name18: ; map_const RADIO_TOWER_2F ; 18
-	db "TOUR RADIO 2F@"
+	db "TOUR RADIO 1F@"
 Dungeons_Map_Name19: ; map_const RADIO_TOWER_3F ; 19
-	db "TOUR RADIO 3F@"
+	db "TOUR RADIO 2F@"
 Dungeons_Map_Name20: ; map_const RADIO_TOWER_4F ; 20
-	db "TOUR RADIO 4F@"
+	db "TOUR RADIO 3F@"
 Dungeons_Map_Name21: ; map_const RADIO_TOWER_5F ; 21
-	db "TOUR RADIO 5F@"
+	db "TOUR RADIO 4F@"
 Dungeons_Map_Name22: ; map_const RUINS_OF_ALPH_OUTSIDE, ; 22
 	db "RUINES D'ALPHA@"
 Dungeons_Map_Name23: ; map_const RUINS_OF_ALPH_HO_OH_CHAMBER ; 23
@@ -671,115 +671,115 @@ Dungeons_Map_Name35: ; map_const RUINS_OF_ALPH_OMANYTE_WORD_ROOM,; 35
 Dungeons_Map_Name36: ; map_const RUINS_OF_ALPH_AERODACTYL_WORD_ROOM,; 36
 	db "SALLE MOT PTERA@"
 Dungeons_Map_Name37: ; map_const UNION_CAVE_1F,; 37
-	db "UNION CAVE 1F@"
+	db "CAVES JUMELLES RDC@"
 Dungeons_Map_Name38: ; map_const UNION_CAVE_B1F,; 38
-	db "UNION CAVE B1F@"
+	db "CAVES JUMELLES -1F@"
 Dungeons_Map_Name39: ; map_const UNION_CAVE_B2F,; 39
-	db "UNION CAVE B2F@"
+	db "CAVES JUMELLES -2F@"
 Dungeons_Map_Name40: ; map_const SLOWPOKE_WELL_B1F,; 40
-	db "SLOWPOKE WELL B1@"
+	db "PUITS RAMOLOSS -1@"
 Dungeons_Map_Name41: ; map_const SLOWPOKE_WELL_B2F,; 41
-	db "SLOWPOKE WELL B2@"
+	db "PUITS RAMOLOSS -2@"
 Dungeons_Map_Name42: ; map_const OLIVINE_LIGHTHOUSE_1F,; 42
-	db "LIGHTHOUSE 1F@"
+	db "PHARE RDC@"
 Dungeons_Map_Name43: ; map_const OLIVINE_LIGHTHOUSE_2F,; 43
-	db "LIGHTHOUSE 2F@"
+	db "PHARE 1F@"
 Dungeons_Map_Name44: ; map_const OLIVINE_LIGHTHOUSE_3F,; 44
-	db "LIGHTHOUSE 3F@"
+	db "PHARE 2F@"
 Dungeons_Map_Name45: ; map_const OLIVINE_LIGHTHOUSE_4F,; 45
-	db "LIGHTHOUSE 4F@"
+	db "PHARE 3F@"
 Dungeons_Map_Name46: ; map_const OLIVINE_LIGHTHOUSE_5F,; 46
-	db "LIGHTHOUSE 5F@"
+	db "PHARE 4F@"
 Dungeons_Map_Name47: ; map_const OLIVINE_LIGHTHOUSE_6F,; 47
-	db "LIGHTHOUSE 6F@"
+	db "PHARE 5F@"
 Dungeons_Map_Name48: ; map_const MAHOGANY_MART_1F ; 48
-	db "MAHOGANY <POKE>MART@"
+	db "<POKE>SHOP D'ACAJOU@"
 Dungeons_Map_Name49: ; map_const TEAM_ROCKET_BASE_B1F,; 49
-	db "ROCKET BASE B1F@"
+	db "REPAIRE ROCKET -1F@"
 Dungeons_Map_Name50: ; map_const TEAM_ROCKET_BASE_B2F,; 50
-	db "ROCKET BASE B2F@"
+	db "REPAIRE ROCKET -2F@"
 Dungeons_Map_Name51: ; map_const TEAM_ROCKET_BASE_B3F,; 51
-	db "ROCKET BASE B3F@"
+	db "REPAIRE ROCKET -3F@"
 Dungeons_Map_Name52: ; map_const ILEX_FOREST,; 52
-	db "ILEX FOREST@"
+	db "BOIS AUX CHENES@"
 Dungeons_Map_Name53: ; map_const GOLDENROD_UNDERGROUND,; 53
-	db "GOLD. UNDERGROUND@"
+	db "SOUTERRAIN GOLD.@"
 Dungeons_Map_Name54: ; map_const GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES,; 54
-	db "GOLD. SWITCH ROOM@"
+	db "SALLE INTER. GOLD.@"
 Dungeons_Map_Name55: ; map_const GOLDENROD_DEPT_STORE_B1F,; 55
-	db "GOLD. DEPT B1F@"
+	db "GOLD. SHOP -1F@"
 Dungeons_Map_Name56: ; map_const GOLDENROD_UNDERGROUND_WAREHOUSE,; 56
-	db "GOLD. DEPT B1F@"
+	db "GOLD. SHOP -1F@"
 Dungeons_Map_Name57: ; map_const MOUNT_MORTAR_1F_OUTSIDE,; 57
-	db "MT. MORTAR@"
+	db "MT. CREUSET@"
 Dungeons_Map_Name58: ; map_const MOUNT_MORTAR_1F_INSIDE,; 58
-	db "MT. MORTAR 1F@"
+	db "MT. CREUSET RDC@"
 Dungeons_Map_Name59: ; map_const MOUNT_MORTAR_2F_INSIDE,; 59
-	db "MT. MORTAR 2F@"
+	db "MT. CREUSET 1F@"
 Dungeons_Map_Name60: ; map_const MOUNT_MORTAR_B1F,; 60
-	db "MT. MORTAR B1F@"
+	db "MT. CREUSET -1F@"
 Dungeons_Map_Name61: ; map_const ICE_PATH_1F,; 61
-	db "ICE PATH 1F@"
+	db "ROUTE GLACE RDC@"
 Dungeons_Map_Name62: ; map_const ICE_PATH_B1F,; 62
-	db "ICE PATH B1F@"
+	db "ROUTE GLACE -1F@"
 Dungeons_Map_Name63: ; map_const ICE_PATH_B2F_MAHOGANY_SIDE,; 63
-	db "ICE PATH B2F W@"
+	db "ROUTE GLACE -2F O@"
 Dungeons_Map_Name64: ; map_const ICE_PATH_B2F_BLACKTHORN_SIDE ; 64
-	db "ICE PATH B2F E@"
+	db "ROUTE GLACE -2F E@"
 Dungeons_Map_Name65: ; map_const ICE_PATH_B3F,; 65
-	db "ICE PATH B3F@"
+	db "ROUTE GLACE -3F@"
 Dungeons_Map_Name66: ; map_const WHIRL_ISLAND_NW ; 66
-	db "WHIRL ISLANDS NW@"
+	db "TOURB'ILES NO@"
 Dungeons_Map_Name67: ; map_const WHIRL_ISLAND_NE,; 67
-	db "WHIRL ISLANDS NE@"
+	db "TOURB'ILES NE@"
 Dungeons_Map_Name68: ; map_const WHIRL_ISLAND_SW,; 68
-	db "WHIRL ISLANDS SW@"
+	db "TOURB'ILES SO@"
 Dungeons_Map_Name69: ; map_const WHIRL_ISLAND_CAVE ; 69
-	db "WHIRL CAVE@"
+	db "TOURB'ILES GROTTE@"
 Dungeons_Map_Name70: ; map_const WHIRL_ISLAND_SE ; 70
-	db "WHIRL ISLANDS SE@"
+	db "TOURB'ILES SE@"
 Dungeons_Map_Name71: ; map_const WHIRL_ISLAND_B1F,; 71
-	db "WHIRL ISLANDS B1F@"
+	db "TOURB'ILES -1F@"
 Dungeons_Map_Name72: ; map_const WHIRL_ISLAND_B2F,; 72
-	db "WHIRL ISLANDS B2F@"
+	db "TOURB'ILES -2F@"
 Dungeons_Map_Name73: ; map_const WHIRL_ISLAND_LUGIA_CHAMBER,; 73
-	db "WHIRL CHAMBER@"
+	db "TOURB'ILES CHBR.@"
 Dungeons_Map_Name74: ; map_const SILVER_CAVE_ROOM_1,; 74
-	db "SILVER CAVE ROOM1@"
+	db "GROTTE ARGENT SALLE1@"
 Dungeons_Map_Name75: ; map_const SILVER_CAVE_ROOM_2,; 75
-	db "SILVER CAVE ROOM2@"
+	db "GROTTE ARGENT SALLE2@"
 Dungeons_Map_Name76: ; map_const SILVER_CAVE_ROOM_3,; 76
-	db "SILVER CAVE ROOM3@"
+	db "GROTTE ARGENT SALLE3@"
 Dungeons_Map_Name77: ; map_const SILVER_CAVE_ITEM_ROOMS,; 77
-	db "SILVER CAVE ROOM4@"	
+	db "GROTTE ARGENT SALLE4@"	
 Dungeons_Map_Name78: ; map_const DARK_CAVE_VIOLET_ENTRANCE,; 78
-	db "DARK CAVE, WEST@"
+	db "ANTRE NOIR, OUEST@"
 Dungeons_Map_Name79: ; map_const DARK_CAVE_BLACKTHORN_ENTRANCE,; 79
-	db "DARK CAVE, EAST@"
+	db "ANTRE NOIR, EST@"
 Dungeons_Map_Name80: ; map_const DRAGONS_DEN_1F ; 80
-	db "DRAGONS DEN 1F@"
+	db "ANTRE DRAGON RDC@"
 Dungeons_Map_Name81: ; map_const DRAGONS_DEN_B1F,; 81
-	db "DRAGONS DEN B1@"
+	db "ANTRE DRAGON -1@"
 Dungeons_Map_Name82: ; map_const DRAGON_SHRINE ; 82
-	db "DRAGON SHRINE@"
+	db "SANCTUAIRE DRAGON@"
 Dungeons_Map_Name83: ; map_const TOHJO_FALLS,; 83
-	db "TOHJO FALLS@"
+	db "CHUTES TOHJO@"
 Dungeons_Map_Name84: ; map_const DIGLETTS_CAVE,; 84
-	db "DIGLETT'S CAVE@"
+	db "GROTTE TAUPIQUEUR@"
 Dungeons_Map_Name85: ; map_const MOUNT_MOON,; 85
-	db "MT. MOON@"
+	db "MONT SELENITE"
 Dungeons_Map_Name86: ; map_const UNDERGROUND_PATH,; 86
-	db "UNDERGROUND PATH@"
+	db "SOUTERRAIN@"
 Dungeons_Map_Name87: ; map_const ROCK_TUNNEL_1F,; 87
-	db "ROCK TUNNEL 1F@"
+	db "GROTTE RDC@"
 Dungeons_Map_Name88: ; map_const ROCK_TUNNEL_B1F,; 88
-	db "ROCK TUNNEL B1F@"
+	db "GROTTE -1F@"
 Dungeons_Map_Name89: ; map_const SAFARI_ZONE_FUCHSIA_GATE_BETA ; 89
-	db "SAFARI GATE@"
+	db "PORTE SAFARI@"
 Dungeons_Map_Name90: ; map_const SAFARI_ZONE_BETA,; 90
-	db "SAFARI ZONE@"
+	db "PARC SAFARI@"
 Dungeons_Map_Name91: ; map_const VICTORY_ROAD,;  4
-	db "VICTORY ROAD@"
+	db "ROUTE VICTOIRE@"
 
 Ecruteak_Map_Name1: ; map_const ECRUTEAK_TIN_TOWER_ENTRANCE,;  1
 	db "TIN TOWER PATH@"
