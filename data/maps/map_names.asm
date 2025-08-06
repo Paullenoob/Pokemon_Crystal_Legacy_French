@@ -585,43 +585,43 @@ Olivine_Map_Name14: ; map_const OLIVINE_CITY ; 14
 	db "OLIVILLE@"
 
 Mahogany_Map_Name1: ; map_const MAHOGANY_RED_GYARADOS_SPEECH_HOUSE ;  1
-	db "MAHOGANY HOUSE@"
+	db "MAISON D'ACAJOU@"
 Mahogany_Map_Name2: ; map_const MAHOGANY_GYM ;  2
-	db "MAHOGANY GYM@"
+	db "ARENE D'ACAJOU@"
 Mahogany_Map_Name3: ; map_const MAHOGANY_POKECENTER_1F ;  3
-	db "MAHOGANY <PKMN> CEN.@"
+	db "CENT. <PKMN> ACAJOU@"
 Mahogany_Map_Name4: ; map_const ROUTE_42_ECRUTEAK_GATE ;  4
-	db "ROUTE 42 GATE@"
+	db "PORTE ROUTE 42@"
 Mahogany_Map_Name5: ; map_const ROUTE_42,  ;  5
 	db "ROUTE 42@"
 Mahogany_Map_Name6: ; map_const ROUTE_44, ;  6
 	db "ROUTE 44@"
 Mahogany_Map_Name7: ; map_const MAHOGANY_TOWN,  ;  7
-	db "MAHOGANY TOWN@"                                           ;  3
+	db "ACAJOU@"                                           ;  3
 Dungeons_Map_Name1: ; map_const SPROUT_TOWER_1F, ;  1
-	db "SPROUT TOWER 1F@"
+	db "TOUR CHETIFLOR 1F@"
 Dungeons_Map_Name2: ; map_const SPROUT_TOWER_2F, ;  2
-	db "SPROUT TOWER 2F@"
+	db "TOUR CHETIFLOR 2F@"
 Dungeons_Map_Name3: ; map_const SPROUT_TOWER_3F, ;  3
-	db "SPROUT TOWER 3F@"
+	db "TOUR CHETIFLOR 3F@"
 Dungeons_Map_Name4: ; map_const TIN_TOWER_1F,  ;  4
-	db "TIN TOWER 1F@"
+	db "TOUR FERRAILLE 1F@"
 Dungeons_Map_Name5: ; map_const TIN_TOWER_2F,;  5
-	db "TIN TOWER 2F@"
+	db "TOUR FERRAILLE 2F@"
 Dungeons_Map_Name6: ; map_const TIN_TOWER_3F,;  6
-	db "TIN TOWER 3F@"
+	db "TOUR FERRAILLE 3F@"
 Dungeons_Map_Name7: ; map_const TIN_TOWER_4F,;  7
-	db "TIN TOWER 4F@"
+	db "TOUR FERRAILLE 4F@"
 Dungeons_Map_Name8: ; map_const TIN_TOWER_5F, ;  8
-	db "TIN TOWER 5F@"
+	db "TOUR FERRAILLE 5F@"
 Dungeons_Map_Name9: ; map_const TIN_TOWER_6F, ;  9
-	db "TIN TOWER 6F@"
+	db "TOUR FERRAILLE 6F@"
 Dungeons_Map_Name10: ; map_const TIN_TOWER_7F, ; 10
-	db "TIN TOWER 7F@"
+	db "TOUR FERRAILLE 7F@"
 Dungeons_Map_Name11: ; map_const TIN_TOWER_8F,; 11
-	db "TIN TOWER 8F@"
+	db "TOUR FERRAILLE 8F@"
 Dungeons_Map_Name12: ; map_const TIN_TOWER_9F,  ; 12
-	db "TIN TOWER 9F@"
+	db "TOUR FERRAILLE 9F@"
 Dungeons_Map_Name13: ; map_const BURNED_TOWER_1F, ; 13
 	db "BURNED TOWER 1F@"
 Dungeons_Map_Name14: ; map_const BURNED_TOWER_B1F, ; 14
