@@ -623,53 +623,53 @@ Dungeons_Map_Name11: ; map_const TIN_TOWER_8F,; 11
 Dungeons_Map_Name12: ; map_const TIN_TOWER_9F,  ; 12
 	db "TOUR FERRAILLE 9F@"
 Dungeons_Map_Name13: ; map_const BURNED_TOWER_1F, ; 13
-	db "BURNED TOWER 1F@"
+	db "TOUR CENDREE 1F@"
 Dungeons_Map_Name14: ; map_const BURNED_TOWER_B1F, ; 14
-	db "BURNED TOWER B1F@"
+	db "TOUR CENDREE B1F@"
 Dungeons_Map_Name15: ; map_const NATIONAL_PARK, ; 15
-	db "NATIONAL PARK@"
+	db "PARC NATUREL@"
 Dungeons_Map_Name16: ; map_const NATIONAL_PARK_BUG_CONTEST,; 16
-	db "BUG CONTEST@"
+	db "CONCOURS D'INSECTES@"
 Dungeons_Map_Name17: ; map_const RADIO_TOWER_1F ; 17
-	db "RADIO TOWER 1F@"
+	db "TOUR RADIO 1F@"
 Dungeons_Map_Name18: ; map_const RADIO_TOWER_2F ; 18
-	db "RADIO TOWER 2F@"
+	db "TOUR RADIO 2F@"
 Dungeons_Map_Name19: ; map_const RADIO_TOWER_3F ; 19
-	db "RADIO TOWER 3F@"
+	db "TOUR RADIO 3F@"
 Dungeons_Map_Name20: ; map_const RADIO_TOWER_4F ; 20
-	db "RADIO TOWER 4F@"
+	db "TOUR RADIO 4F@"
 Dungeons_Map_Name21: ; map_const RADIO_TOWER_5F ; 21
-	db "RADIO TOWER 5F@"
+	db "TOUR RADIO 5F@"
 Dungeons_Map_Name22: ; map_const RUINS_OF_ALPH_OUTSIDE, ; 22
-	db "RUINS OF ALPH@"
+	db "RUINES D'ALPHA@"
 Dungeons_Map_Name23: ; map_const RUINS_OF_ALPH_HO_OH_CHAMBER ; 23
-	db "HO-OH CHAMBER@"
+	db "CHAMBRE HO-OH@"
 Dungeons_Map_Name24: ; map_const RUINS_OF_ALPH_KABUTO_CHAMBER ; 24
-	db "KABUTO CHAMBER@"
+	db "CHAMBRE KABUTO@"
 Dungeons_Map_Name25: ; map_const RUINS_OF_ALPH_OMANYTE_CHAMBER ; 25
-	db "OMANYTE CHAMBER@"
+	db "CHAMBRE AMONITA@"
 Dungeons_Map_Name26: ; map_const RUINS_OF_ALPH_AERODACTYL_CHAMBER ; 26
-	db "AERO CHAMBER@"
+	db "CHAMBRE PTERA@"
 Dungeons_Map_Name27: ; map_const RUINS_OF_ALPH_INNER_CHAMBE ; 27
-	db "RUINS CHAMBER@"
+	db "CHAMBRE RUINES@"
 Dungeons_Map_Name28: ; map_const RUINS_OF_ALPH_RESEARCH_CENTER ; 28
-	db "RUINS LAB@"
+	db "LABO DES RUINES@"
 Dungeons_Map_Name29: ; map_const RUINS_OF_ALPH_HO_OH_ITEM_ROOM ; 29
-	db "HO-OH PRIZE ROOM@"
+	db "SALLE PRIX HO-OH@"
 Dungeons_Map_Name30: ; map_const RUINS_OF_ALPH_KABUTO_ITEM_ROOM ; 30
-	db "KABUTO PRIZE ROOM@"
+	db "SALLE PRIX KABUTO@"
 Dungeons_Map_Name31: ; map_const RUINS_OF_ALPH_OMANYTE_ITEM_ROOM ; 31
-	db "OMANYTE PRIZEROOM@"
+	db "SALLE PRIX AMONITA@"
 Dungeons_Map_Name32: ; map_const RUINS_OF_ALPH_AERODACTYL_ITEM_ROOM ; 32
-	db "AERO PRIZE ROOM@"
+	db "SALLE PRIX PTERA@"
 Dungeons_Map_Name33: ; map_const RUINS_OF_ALPH_HO_OH_WORD_ROOM,; 33
-	db "HO-OH WORD ROOM@"
+	db "SALLE MOT HO-OH@"
 Dungeons_Map_Name34: ; map_const RUINS_OF_ALPH_KABUTO_WORD_ROOM,; 34
-	db "KABUTO WORD ROOM@"
+	db "SALLE MOT KABUTO@"
 Dungeons_Map_Name35: ; map_const RUINS_OF_ALPH_OMANYTE_WORD_ROOM,; 35
-	db "OMANYTE WORD ROOM@"
+	db "SALLE MOT AMONITA@"
 Dungeons_Map_Name36: ; map_const RUINS_OF_ALPH_AERODACTYL_WORD_ROOM,; 36
-	db "AERO WORD ROOM@"
+	db "SALLE MOT PTERA@"
 Dungeons_Map_Name37: ; map_const UNION_CAVE_1F,; 37
 	db "UNION CAVE 1F@"
 Dungeons_Map_Name38: ; map_const UNION_CAVE_B1F,; 38
