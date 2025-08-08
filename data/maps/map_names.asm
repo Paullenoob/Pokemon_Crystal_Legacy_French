@@ -782,23 +782,23 @@ Dungeons_Map_Name91: ; map_const VICTORY_ROAD,;  4
 	db "ROUTE VICTOIRE@"
 
 Ecruteak_Map_Name1: ; map_const ECRUTEAK_TIN_TOWER_ENTRANCE,;  1
-	db "TIN TOWER PATH@"
+	db "CHEMIN TOUR FERRAILLE@"
 Ecruteak_Map_Name2: ; map_const WISE_TRIOS_ROOM ;  2
-	db "WISE TRIO ROOM@"
+	db "SALLE TRIO DES SAGES@"
 Ecruteak_Map_Name3: ; map_const ECRUTEAK_POKECENTER_1F ;  3
-	db "ECRUTEAK <PKMN> CEN.@"
+	db "CENT. <PKMN> ROSALIA@"
 Ecruteak_Map_Name4: ; map_const ECRUTEAK_LUGIA_SPEECH_HOUSE ;  4
-	db "ECRUTEAK HOUSE 1@"
+	db "MAISON 1 ROSALIA@"
 Ecruteak_Map_Name5: ; map_const DANCE_THEATRE ;  5
-	db "DANCE THEATER@"
+	db "SALLE DE DANCE@"
 Ecruteak_Map_Name6: ; map_const ECRUTEAK_MART ;  6
-	db "ECRUTEAK <POKE>MART@"
+	db "<POKE>SHOP ROSALIA@"
 Ecruteak_Map_Name7: ; map_const ECRUTEAK_GYM ;  7
-	db "ECRUTEAK GYM@"
+	db "ARENE DE ROSALIA@"
 Ecruteak_Map_Name8: ; map_const ECRUTEAK_ITEMFINDER_HOUSE ;  8
-	db "ITEMFINDER HOUSE@"
+	db "MAISON CHERCHOBJET@"
 Ecruteak_Map_Name9: ; map_const ECRUTEAK_CITY,;  5
-	db "ECRUTEAK CITY@"
+	db "ROSALIA@"
 
 Blackthorn_Map_Name1: ; map_const BLACKTHORN_GYM_1F ;  1
 	db "BLACKTHORN GYM@"
